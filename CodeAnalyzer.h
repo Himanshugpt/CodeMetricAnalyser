@@ -5,7 +5,7 @@
 //  ver 1.2                                                        //
 //  Language:      Visual C++ 2010                                 //
 //  Author:        Himanshu Gupta, Syracuse University             //
-//                 (315) 447-1667, hgupta01@syr.edu                //
+//                                                                 //
 /////////////////////////////////////////////////////////////////////
 /*
   Module Operations: 
